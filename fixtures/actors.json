@@ -1,0 +1,296 @@
+{
+  "user_actor": {
+    "actor_id": "u_rohan",
+    "profile": {
+      "name": "Rohan Iyer",
+      "headline": "Co-founder at Lakeside AI"
+    },
+    "contacts": {
+      "email": "rohan@lakesideai.example"
+    },
+    "current_role": {
+      "company_name": "Lakeside AI"
+    },
+    "background_category": "founder"
+  },
+  "actors": [
+    {
+      "actor_id": "a_nadia",
+      "profile": {
+        "name": "Nadia Fernandes",
+        "headline": "Partner at Northgate Capital, early-stage VC"
+      },
+      "contacts": {
+        "email": "nadia.f@example.com"
+      },
+      "current_role": {
+        "company_name": "Northgate Capital"
+      },
+      "background_category": "vc"
+    },
+    {
+      "actor_id": "a_mira",
+      "profile": {
+        "name": "Mira Raghavan",
+        "headline": "Principal at Ivyline Ventures"
+      },
+      "contacts": {
+        "email": "mira.r@example.com"
+      },
+      "current_role": {
+        "company_name": "Ivyline Ventures"
+      },
+      "background_category": "vc"
+    },
+    {
+      "actor_id": "a_priya",
+      "profile": {
+        "name": "Priya Menon",
+        "headline": "Investment Team at Sableline Capital"
+      },
+      "contacts": {
+        "email": "priya.m@example.com"
+      },
+      "current_role": {
+        "company_name": "Sableline Capital"
+      },
+      "background_category": "vc"
+    },
+    {
+      "actor_id": "a_farah",
+      "profile": {
+        "name": "Farah Siddiqui",
+        "headline": "Senior Associate at Kestrel Capital"
+      },
+      "contacts": {
+        "email": "farah.s@example.com"
+      },
+      "current_role": {
+        "company_name": "Kestrel Capital"
+      },
+      "background_category": "vc"
+    },
+    {
+      "actor_id": "a_deepak",
+      "profile": {
+        "name": "Deepak Rao",
+        "headline": "Managing Partner at Kestrel Capital"
+      },
+      "contacts": {
+        "email": "deepak.rao@example.com"
+      },
+      "current_role": {
+        "company_name": "Kestrel Capital"
+      },
+      "background_category": "vc"
+    },
+    {
+      "actor_id": "a_anita",
+      "profile": {
+        "name": "Anita Bhat",
+        "headline": "Partner at Verante Capital"
+      },
+      "contacts": {
+        "email": "anita.b@example.com"
+      },
+      "current_role": {
+        "company_name": "Verante Capital"
+      },
+      "background_category": "vc"
+    },
+    {
+      "actor_id": "a_kunal",
+      "profile": {
+        "name": "Kunal Pandey",
+        "headline": "Founder at Hexawave Systems"
+      },
+      "contacts": {
+        "email": "kunal.p@example.com"
+      },
+      "current_role": {
+        "company_name": "Hexawave Systems"
+      },
+      "background_category": "founder"
+    },
+    {
+      "actor_id": "a_jai",
+      "profile": {
+        "name": "Jai Kapoor",
+        "headline": "Co-founder at Trailsend Labs"
+      },
+      "contacts": {
+        "email": "jai.k@example.com"
+      },
+      "current_role": {
+        "company_name": "Trailsend Labs"
+      },
+      "background_category": "founder"
+    },
+    {
+      "actor_id": "a_tarun",
+      "profile": {
+        "name": "Tarun Bhatia",
+        "headline": "Founder at Fernline Analytics"
+      },
+      "contacts": {
+        "email": "tarun.b@example.com"
+      },
+      "current_role": {
+        "company_name": "Fernline Analytics"
+      },
+      "background_category": "founder"
+    },
+    {
+      "actor_id": "a_vikram",
+      "profile": {
+        "name": "Vikram Sethi",
+        "headline": "Founder at Hirelane"
+      },
+      "contacts": {
+        "email": "vikram.s@example.com"
+      },
+      "current_role": {
+        "company_name": "Hirelane"
+      },
+      "background_category": "founder"
+    },
+    {
+      "actor_id": "a_arun_s",
+      "profile": {
+        "name": "Arun Salvi",
+        "headline": "Founder at Greenstack"
+      },
+      "contacts": {
+        "email": "arun.s@lakesideai.example"
+      },
+      "current_role": {
+        "company_name": "Greenstack"
+      },
+      "background_category": "founder"
+    },
+    {
+      "actor_id": "a_anjali",
+      "profile": {
+        "name": "Anjali Pillai",
+        "headline": "Engineering Lead at Riverstone Media"
+      },
+      "contacts": {
+        "email": "anjali.p@example.com"
+      },
+      "current_role": {
+        "company_name": "Riverstone Media"
+      },
+      "background_category": "engineer"
+    },
+    {
+      "actor_id": "a_samir",
+      "profile": {
+        "name": "Samir Khan",
+        "headline": "Founder at Trailsend Labs"
+      },
+      "contacts": {
+        "email": "samir.k@example.com"
+      },
+      "current_role": {
+        "company_name": "Trailsend Labs"
+      },
+      "background_category": "founder"
+    },
+    {
+      "actor_id": "a_meera",
+      "profile": {
+        "name": "Meera Lokhande",
+        "headline": "Senior Engineer at Skylark Robotics"
+      },
+      "contacts": {
+        "email": "meera.l@example.com"
+      },
+      "current_role": {
+        "company_name": "Skylark Robotics"
+      },
+      "background_category": "engineer"
+    },
+    {
+      "actor_id": "a_divya",
+      "profile": {
+        "name": "Divya Nair",
+        "headline": "Staff Engineer at Cloudloom"
+      },
+      "contacts": {
+        "email": "divya.n@example.com"
+      },
+      "current_role": {
+        "company_name": "Cloudloom"
+      },
+      "background_category": "engineer"
+    },
+    {
+      "actor_id": "a_amin",
+      "profile": {
+        "name": "Amin Farooqi",
+        "headline": "Lead AI Scientist at Kestrel Aerospace"
+      },
+      "contacts": {
+        "email": "amin.f@example.com"
+      },
+      "current_role": {
+        "company_name": "Kestrel Aerospace"
+      },
+      "background_category": "engineer"
+    },
+    {
+      "actor_id": "a_siddharth",
+      "profile": {
+        "name": "Siddharth Bose",
+        "headline": "Backend Engineer exploring founding-team roles"
+      },
+      "contacts": {},
+      "current_role": {
+        "company_name": "Craftfolio"
+      },
+      "background_category": "engineer"
+    },
+    {
+      "actor_id": "a_kartik",
+      "profile": {
+        "name": "Kartik Joshi",
+        "headline": "Founder at Skylark Robotics"
+      },
+      "contacts": {
+        "email": "kartik.j@example.com"
+      },
+      "current_role": {
+        "company_name": "Skylark Robotics"
+      },
+      "background_category": "founder"
+    },
+    {
+      "actor_id": "a_leena",
+      "profile": {
+        "name": "Leena George",
+        "headline": "ML Engineer at Orbita Labs"
+      },
+      "contacts": {
+        "email": "leena.g@example.com"
+      },
+      "current_role": {
+        "company_name": "Orbita Labs"
+      },
+      "background_category": "engineer"
+    },
+    {
+      "actor_id": "a_shruti",
+      "profile": {
+        "name": "Shruti Desai",
+        "headline": "Founder at Lantern Forge"
+      },
+      "contacts": {
+        "email": "shruti.d@example.com"
+      },
+      "current_role": {
+        "company_name": "Lantern Forge"
+      },
+      "background_category": "founder"
+    }
+  ]
+}

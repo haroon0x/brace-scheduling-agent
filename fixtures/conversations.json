@@ -1,0 +1,510 @@
+{
+  "conversations": [
+    {
+      "conversation_id": "s01_nadia_vc_linkedin_inbound_deck_then_slot",
+      "target_actor_id": "a_nadia",
+      "target_actor_name": "Nadia Fernandes",
+      "channel": "LINKEDIN_DM",
+      "user_objective": "Respond to inbound VC interest, share the deck, and book the intro call on the slot the target proposed.",
+      "user_timezone": "Asia/Kolkata",
+      "edge_case_flags": [],
+      "current_date": "2026-05-23",
+      "history": [
+        {
+          "timestamp": "2026-05-21T11:02:00+05:30",
+          "sender": "target",
+          "actor_id": "a_nadia",
+          "text": "Hi Rohan, hope you are doing well. We're an early stage VC fund at Northgate Capital, and a couple of teammates pointed me to what you're building at Lakeside AI. Would love to chat and learn more."
+        },
+        {
+          "timestamp": "2026-05-21T11:41:00+05:30",
+          "sender": "user",
+          "actor_id": "u_rohan",
+          "text": "Hi Nadia, appreciate the note. Lakeside AI is an AI concierge that maps relationship context for founders and runs back-and-forth outreach end to end. Happy to share a quick deck and jump on a 30 min call."
+        },
+        {
+          "timestamp": "2026-05-21T11:47:00+05:30",
+          "sender": "target",
+          "actor_id": "a_nadia",
+          "text": "Sounds great. Does Friday 3:30 work? Also do you have a brief/deck you can share for context before the call?"
+        }
+      ]
+    },
+    {
+      "conversation_id": "s02_mira_vc_linkedin_warm_peer_catchup",
+      "target_actor_id": "a_mira",
+      "target_actor_name": "Mira Raghavan",
+      "channel": "LINKEDIN_DM",
+      "user_objective": "Warm peer catch-up with a VC principal; find a low-friction time.",
+      "user_timezone": "Asia/Kolkata",
+      "edge_case_flags": [],
+      "current_date": "2026-05-23",
+      "history": [
+        {
+          "timestamp": "2026-05-20T18:12:00+05:30",
+          "sender": "user",
+          "actor_id": "u_rohan",
+          "text": "Mira, been too long. Want to compare notes on how founders in both our portfolios are using agents. 30 minutes somewhere this month?"
+        },
+        {
+          "timestamp": "2026-05-20T19:03:00+05:30",
+          "sender": "target",
+          "actor_id": "a_mira",
+          "text": "Ha, yes please! Days are packed but I can always find a slot for this. Give me a couple of options and I'll take one."
+        }
+      ]
+    },
+    {
+      "conversation_id": "s03_priya_vc_email_portfolio_intro",
+      "target_actor_id": "a_priya",
+      "target_actor_name": "Priya Menon",
+      "channel": "EMAIL",
+      "user_objective": "Intro from a partner company; line up a short investor call next week.",
+      "user_timezone": "Asia/Kolkata",
+      "edge_case_flags": [],
+      "current_date": "2026-05-23",
+      "history": [
+        {
+          "timestamp": "2026-05-20T09:15:00+05:30",
+          "sender": "user",
+          "actor_id": "u_rohan",
+          "text": "Hi Priya, we met briefly at the founder showcase last quarter. We're building Lakeside AI and I would value 30 minutes with the investment team at Sableline Capital next week."
+        },
+        {
+          "timestamp": "2026-05-20T10:05:00+05:30",
+          "sender": "target",
+          "actor_id": "a_priya",
+          "text": "Hi Rohan, of course. Shoot me a couple of times that work early next week and I will pick one."
+        }
+      ]
+    },
+    {
+      "conversation_id": "s04_farah_vc_email_cold_inbound_propose_two_slots",
+      "target_actor_id": "a_farah",
+      "target_actor_name": "Farah Siddiqui",
+      "channel": "EMAIL",
+      "user_objective": "Cold inbound from a VC investment team; propose two concrete slots and confirm one.",
+      "user_timezone": "Asia/Kolkata",
+      "edge_case_flags": [],
+      "current_date": "2026-05-23",
+      "history": [
+        {
+          "timestamp": "2026-05-20T08:55:00+05:30",
+          "sender": "target",
+          "actor_id": "a_farah",
+          "text": "Hi Rohan,\n\nHope you are well. By way of introduction, I am Farah, part of the Investment Team at Kestrel Capital. We came across Lakeside AI and would love to learn more - would you be open to a quick 30 minute call next week?\n\nBest,\nFarah"
+        }
+      ]
+    },
+    {
+      "conversation_id": "s05_deepak_vc_email_senior_partner_terse",
+      "target_actor_id": "a_deepak",
+      "target_actor_name": "Deepak Rao",
+      "channel": "EMAIL",
+      "user_objective": "Senior VC partner wants exactly one time option; keep replies brief.",
+      "user_timezone": "Asia/Kolkata",
+      "edge_case_flags": [
+        "senior_partner_brevity"
+      ],
+      "current_date": "2026-05-23",
+      "history": [
+        {
+          "timestamp": "2026-05-20T07:58:00+05:30",
+          "sender": "user",
+          "actor_id": "u_rohan",
+          "text": "Hi Deepak,\n\nRavi suggested I reach out - we're building Lakeside AI, an AI relationship layer for founders. Would value 30 minutes whenever your week allows.\n\nRohan"
+        },
+        {
+          "timestamp": "2026-05-20T09:22:00+05:30",
+          "sender": "target",
+          "actor_id": "a_deepak",
+          "text": "Thanks. Wednesday or Thursday next week. Send one time."
+        }
+      ]
+    },
+    {
+      "conversation_id": "s06_anita_vc_linkedin_busy_but_interested",
+      "target_actor_id": "a_anita",
+      "target_actor_name": "Anita Bhat",
+      "channel": "LINKEDIN_DM",
+      "user_objective": "Respect the target's packed week and book inside the window they gave for next week.",
+      "user_timezone": "Asia/Kolkata",
+      "edge_case_flags": [],
+      "current_date": "2026-05-23",
+      "history": [
+        {
+          "timestamp": "2026-05-21T13:20:00+05:30",
+          "sender": "target",
+          "actor_id": "a_anita",
+          "text": "Hey Rohan, pleasure connecting with you. Heard about Lakeside AI, sounds super interesting. I'd love to hear more, could we set up time to chat?"
+        },
+        {
+          "timestamp": "2026-05-21T13:33:00+05:30",
+          "sender": "user",
+          "actor_id": "u_rohan",
+          "text": "Likewise Anita, would love to. How about anytime this Thursday or Friday afternoon?"
+        },
+        {
+          "timestamp": "2026-05-21T14:01:00+05:30",
+          "sender": "target",
+          "actor_id": "a_anita",
+          "text": "This week is genuinely packed - can we do anytime between 11:00 and 13:00 on Wednesday the 27th?"
+        }
+      ]
+    },
+    {
+      "conversation_id": "s07_kunal_founder_email_routed_via_assistant",
+      "target_actor_id": "a_kunal",
+      "target_actor_name": "Kunal Pandey",
+      "channel": "EMAIL",
+      "user_objective": "Handle an EA handoff politely, cc the founder, and propose times to the assistant.",
+      "user_timezone": "Asia/Kolkata",
+      "edge_case_flags": [],
+      "current_date": "2026-05-23",
+      "history": [
+        {
+          "timestamp": "2026-05-19T16:40:00+05:30",
+          "sender": "user",
+          "actor_id": "u_rohan",
+          "text": "Hi Kunal,\n\nRohan from Lakeside AI - we're building an AI concierge that runs relationship outreach end to end for founders. Would love your read on what we're shipping. 30 min next week?\n\nRohan"
+        },
+        {
+          "timestamp": "2026-05-19T17:25:00+05:30",
+          "sender": "target",
+          "actor_id": "a_kunal",
+          "text": "Hi Rohan - sounds interesting, happy to connect. Would be good to drop a note to my EA at sindhoora@hexawave.example for time."
+        }
+      ]
+    },
+    {
+      "conversation_id": "s08_jai_founder_linkedin_warm_peer_quick_yes",
+      "target_actor_id": "a_jai",
+      "target_actor_name": "Jai Kapoor",
+      "channel": "LINKEDIN_DM",
+      "user_objective": "Warm founder peer says yes fast; accommodate a quick same/next-day slot.",
+      "user_timezone": "Asia/Kolkata",
+      "edge_case_flags": [
+        "founder_quick_yes"
+      ],
+      "current_date": "2026-05-23",
+      "history": [
+        {
+          "timestamp": "2026-05-22T22:41:00+05:30",
+          "sender": "user",
+          "actor_id": "u_rohan",
+          "text": "jai, too long no talk - want to compare notes on usage-billing patterns we're seeing in agentic teams. 20 min sometime?"
+        },
+        {
+          "timestamp": "2026-05-22T22:57:00+05:30",
+          "sender": "target",
+          "actor_id": "a_jai",
+          "text": "yes please. tomorrow works?"
+        }
+      ]
+    },
+    {
+      "conversation_id": "s09_tarun_founder_linkedin_pivots_from_content_to_call",
+      "target_actor_id": "a_tarun",
+      "target_actor_name": "Tarun Bhatia",
+      "channel": "LINKEDIN_DM",
+      "user_objective": "Target pivots from content discussion to a call; accept their choice immediately.",
+      "user_timezone": "Asia/Kolkata",
+      "edge_case_flags": [],
+      "current_date": "2026-05-23",
+      "history": [
+        {
+          "timestamp": "2026-05-22T09:10:00+05:30",
+          "sender": "user",
+          "actor_id": "u_rohan",
+          "text": "https://example.com/p/agentic-pricing - thought of you, this is exactly the framing we're hitting on pricing for agentic flows."
+        },
+        {
+          "timestamp": "2026-05-22T09:32:00+05:30",
+          "sender": "target",
+          "actor_id": "a_tarun",
+          "text": "Very good read! Thanks for sharing this Rohan. We should jump on a quick call - I want to understand how you're framing 'work-based' pricing for Lakeside AI."
+        }
+      ]
+    },
+    {
+      "conversation_id": "s10_vikram_founder_linkedin_reschedule_due_to_illness",
+      "target_actor_id": "a_vikram",
+      "target_actor_name": "Vikram Sethi",
+      "channel": "LINKEDIN_DM",
+      "user_objective": "Confirmed call was cancelled due to illness; propose the next business day and reschedule.",
+      "user_timezone": "Asia/Kolkata",
+      "edge_case_flags": [],
+      "current_date": "2026-05-23",
+      "history": [
+        {
+          "timestamp": "2026-05-22T10:02:00+05:30",
+          "sender": "target",
+          "actor_id": "a_vikram",
+          "text": "hey rohan, vikram here - i'm building hirelane(dot)com, sharp hiring platform for early-stage teams. we should talk."
+        },
+        {
+          "timestamp": "2026-05-22T10:18:00+05:30",
+          "sender": "user",
+          "actor_id": "u_rohan",
+          "text": "sounds interesting, tomorrow 20:00?"
+        },
+        {
+          "timestamp": "2026-05-22T10:26:00+05:30",
+          "sender": "target",
+          "actor_id": "a_vikram",
+          "text": "yes, sounds good"
+        },
+        {
+          "timestamp": "2026-05-23T08:05:00+05:30",
+          "sender": "target",
+          "actor_id": "a_vikram",
+          "text": "hey rohan, just a heads up, i'm down with viral fever today, pushing all calls and meetings - really sorry about this. can we reschedule?"
+        }
+      ]
+    },
+    {
+      "conversation_id": "s11_arun_founder_email_investor_update_call",
+      "target_actor_id": "a_arun_s",
+      "target_actor_name": "Arun Salvi",
+      "channel": "EMAIL",
+      "user_objective": "Peer founder wants a catch-up call around an investor update; find a time.",
+      "user_timezone": "Asia/Kolkata",
+      "edge_case_flags": [],
+      "current_date": "2026-05-23",
+      "history": [
+        {
+          "timestamp": "2026-05-21T17:44:00+05:30",
+          "sender": "target",
+          "actor_id": "a_arun_s",
+          "text": "Rohan - mid-quarter investor review coming up and I keep second-guessing our agent-first roadmap. Can we get 30 minutes on the calendar to trade notes before I present?"
+        }
+      ]
+    },
+    {
+      "conversation_id": "s12_anjali_engineer_linkedin_referral_intro",
+      "target_actor_id": "a_anjali",
+      "target_actor_name": "Anjali Pillai",
+      "channel": "LINKEDIN_DM",
+      "user_objective": "Referred by a mutual contact; schedule a casual intro chat.",
+      "user_timezone": "Asia/Kolkata",
+      "edge_case_flags": [],
+      "current_date": "2026-05-23",
+      "history": [
+        {
+          "timestamp": "2026-05-21T12:05:00+05:30",
+          "sender": "user",
+          "actor_id": "u_rohan",
+          "text": "Anjali - Meera from Skylark Robotics said you two overlapped on agent evals. Love how you framed the retrieval backend talk. Up for a 30 min intro call?"
+        },
+        {
+          "timestamp": "2026-05-21T12:31:00+05:30",
+          "sender": "target",
+          "actor_id": "a_anjali",
+          "text": "Hi Rohan! Yes, happy to. I am mostly free afternoons next week - send me a couple of options."
+        }
+      ]
+    },
+    {
+      "conversation_id": "s13_samir_founder_linkedin_old_friend_ambiguous",
+      "target_actor_id": "a_samir",
+      "target_actor_name": "Samir Khan",
+      "channel": "LINKEDIN_DM",
+      "user_objective": "Old friend, casual tone, target delegates the choice of exact time.",
+      "user_timezone": "Asia/Kolkata",
+      "edge_case_flags": [],
+      "current_date": "2026-05-23",
+      "history": [
+        {
+          "timestamp": "2026-05-21T19:55:00+05:30",
+          "sender": "user",
+          "actor_id": "u_rohan",
+          "text": "samir, long time no see man, want to catch up - what you up to with agentic workflows lately? also have something cooking i want your take on."
+        },
+        {
+          "timestamp": "2026-05-21T20:12:00+05:30",
+          "sender": "target",
+          "actor_id": "a_samir",
+          "text": "haha bro yes. days are messy this week, let's just do it soon, you ping me when."
+        }
+      ]
+    },
+    {
+      "conversation_id": "s14_meera_engineer_linkedin_in_person_location",
+      "target_actor_id": "a_meera",
+      "target_actor_name": "Meera Lokhande",
+      "channel": "LINKEDIN_DM",
+      "user_objective": "Engineering chat requested in person at a cafe; book the slot and share the location.",
+      "user_timezone": "Asia/Kolkata",
+      "edge_case_flags": [
+        "in_person_requested"
+      ],
+      "current_date": "2026-05-23",
+      "history": [
+        {
+          "timestamp": "2026-05-22T15:50:00+05:30",
+          "sender": "user",
+          "actor_id": "u_rohan",
+          "text": "meera, your keynote on robot fleet tooling was excellent. we're building Lakeside AI and i think there's real overlap. up for a coffee chat next week?"
+        },
+        {
+          "timestamp": "2026-05-22T16:08:00+05:30",
+          "sender": "target",
+          "actor_id": "a_meera",
+          "text": "Thanks Rohan! Coffee sounds great. I can do thursday, pick a time?"
+        }
+      ]
+    },
+    {
+      "conversation_id": "s15_divya_engineer_linkedin_recruiting_in_person_tomorrow",
+      "target_actor_id": "a_divya",
+      "target_actor_name": "Divya Nair",
+      "channel": "LINKEDIN_DM",
+      "user_objective": "Recruiting conversation that shifts to an in-person meeting the next day.",
+      "user_timezone": "Asia/Kolkata",
+      "edge_case_flags": [
+        "in_person_requested",
+        "weekend_slot_offered"
+      ],
+      "current_date": "2026-05-23",
+      "history": [
+        {
+          "timestamp": "2026-05-22T11:21:00+05:30",
+          "sender": "target",
+          "actor_id": "a_divya",
+          "text": "Hey! Interview loop went well, they're checking references this week. Would love to meet up in person and catch up properly."
+        }
+      ]
+    },
+    {
+      "conversation_id": "s16_amin_engineer_email_evenings_only",
+      "target_actor_id": "a_amin",
+      "target_actor_name": "Amin Farooqi",
+      "channel": "EMAIL",
+      "user_objective": "Target can only meet evenings; respect the constraint and cancel gracefully if it cannot work.",
+      "user_timezone": "Asia/Kolkata",
+      "edge_case_flags": [
+        "geographic_constraint"
+      ],
+      "current_date": "2026-05-23",
+      "history": [
+        {
+          "timestamp": "2026-05-20T06:30:00+05:30",
+          "sender": "user",
+          "actor_id": "u_rohan",
+          "text": "Hi Amin,\n\nRohan from Lakeside AI here - I've been following your work as Lead AI Scientist at Kestrel Aerospace. We're building an agentic relationship layer for founders and I'd value your perspective on retrieval/grounding for real workflows.\n\nRohan"
+        },
+        {
+          "timestamp": "2026-05-20T12:41:00+05:30",
+          "sender": "target",
+          "actor_id": "a_amin",
+          "text": "Hi Rohan, happy to chat. Daytimes are blocked by lab work - I can only do evenings 19:00 IST onwards on weekdays. Wednesday or Thursday work?"
+        }
+      ]
+    },
+    {
+      "conversation_id": "s17_siddharth_engineer_linkedin_classic_candidate_flow",
+      "target_actor_id": "a_siddharth",
+      "target_actor_name": "Siddharth Bose",
+      "channel": "LINKEDIN_DM",
+      "user_objective": "Classic candidate flow: pitch the role, confirm a weekend slot, collect the candidate email for the invite.",
+      "user_timezone": "Asia/Kolkata",
+      "edge_case_flags": [
+        "candidate_email_collected",
+        "weekend_slot_offered"
+      ],
+      "current_date": "2026-05-23",
+      "history": [
+        {
+          "timestamp": "2026-05-22T23:02:00+05:30",
+          "sender": "user",
+          "actor_id": "u_rohan",
+          "text": "hey siddharth, i'm rohan, founder of lakeside ai. i am building \"an ai agent for your network\", looking for founding eng. to join us at lakeside - want to jump on a quick call sometime this weekend?"
+        },
+        {
+          "timestamp": "2026-05-22T23:19:00+05:30",
+          "sender": "target",
+          "actor_id": "a_siddharth",
+          "text": "Hey Rohan. Thank you for reaching out. Would love to know more about your idea and what you are working on. Sometime this weekend?"
+        },
+        {
+          "timestamp": "2026-05-22T23:26:00+05:30",
+          "sender": "user",
+          "actor_id": "u_rohan",
+          "text": "saturday 14:45 works?"
+        },
+        {
+          "timestamp": "2026-05-22T23:30:00+05:30",
+          "sender": "target",
+          "actor_id": "a_siddharth",
+          "text": "Yes, works for me."
+        }
+      ]
+    },
+    {
+      "conversation_id": "s18_kartik_founder_email_timezone_flight",
+      "target_actor_id": "a_kartik",
+      "target_actor_name": "Kartik Joshi",
+      "channel": "EMAIL",
+      "user_objective": "Target is travelling; work around their timezone and exact window.",
+      "user_timezone": "Asia/Kolkata",
+      "edge_case_flags": [],
+      "current_date": "2026-05-23",
+      "history": [
+        {
+          "timestamp": "2026-05-21T08:12:00+05:30",
+          "sender": "user",
+          "actor_id": "u_rohan",
+          "text": "Kartik, your post on robot fleet orchestration made the rounds at Lakeside AI HQ. Would love 30 minutes to trade notes on tooling."
+        },
+        {
+          "timestamp": "2026-05-21T13:02:00+05:30",
+          "sender": "target",
+          "actor_id": "a_kartik",
+          "text": "Rohan, in Europe next week on customer visits. I can do 15:00-17:00 IST on tuesday in the evening there, anything outside that needs a week's notice."
+        }
+      ]
+    },
+    {
+      "conversation_id": "s19_leena_engineer_email_deep_tech_lab_window",
+      "target_actor_id": "a_leena",
+      "target_actor_name": "Leena George",
+      "channel": "EMAIL",
+      "user_objective": "Deep-tech engineer offers a strict lab-morning window; propose inside it.",
+      "user_timezone": "Asia/Kolkata",
+      "edge_case_flags": [],
+      "current_date": "2026-05-23",
+      "history": [
+        {
+          "timestamp": "2026-05-20T14:55:00+05:30",
+          "sender": "user",
+          "actor_id": "u_rohan",
+          "text": "Hi Leena,\n\nRohan at Lakeside AI - we worked on overlapping imagery problems back at Orbita Labs and you were on my mind as you scaled at Fernline. We're building Lakeside AI and I'd value 20 min of your engineering perspective.\n\nRohan"
+        },
+        {
+          "timestamp": "2026-05-20T15:34:00+05:30",
+          "sender": "target",
+          "actor_id": "a_leena",
+          "text": "Hi Rohan! Good to hear from you. Afternoons here are lab time - I can do mornings 09:30-11:00 IST any weekday. Pick a time?"
+        }
+      ]
+    },
+    {
+      "conversation_id": "s20_shruti_founder_linkedin_quarter_planning",
+      "target_actor_id": "a_shruti",
+      "target_actor_name": "Shruti Desai",
+      "channel": "LINKEDIN_DM",
+      "user_objective": "Busy founder pushes the call to next quarter; offer a concrete early slot anyway.",
+      "user_timezone": "Asia/Kolkata",
+      "edge_case_flags": [],
+      "current_date": "2026-05-23",
+      "history": [
+        {
+          "timestamp": "2026-05-22T21:14:00+05:30",
+          "sender": "target",
+          "actor_id": "a_shruti",
+          "text": "Rohan! Congrats on the launch last week. Quarter planning has me buried - realistically I can only carve out an hour sometime this month. Ping me something concrete and I'll be there."
+        }
+      ]
+    }
+  ]
+}
